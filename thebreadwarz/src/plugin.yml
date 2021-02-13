@@ -1,0 +1,7 @@
+main: me.lithiuman.lmmb74.bedwars.BedWars
+description: A BedWars plugin.
+version: 0.1
+commands:
+  bw:
+    description: The Main Command
+    usage: /bw
